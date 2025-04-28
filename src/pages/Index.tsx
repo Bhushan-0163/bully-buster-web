@@ -1,6 +1,7 @@
 
 import HeroSection from "@/components/HeroSection";
 import DetectionForm from "@/components/DetectionForm";
+import Statistics from "@/components/Statistics";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
@@ -13,6 +14,7 @@ const Index = () => {
         <div className="my-8">
           <DetectionForm />
         </div>
+        <Statistics />
       </main>
       <Footer />
     </div>
