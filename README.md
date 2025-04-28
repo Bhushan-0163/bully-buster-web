@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/be2c7255-bca5-4d79-b2ae-e9d2970933e5
+**URL**: (https://bully-buster-web.lovable.app/)
 
 ## How can I edit this code?
 
